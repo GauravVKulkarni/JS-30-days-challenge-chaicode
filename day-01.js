@@ -1,3 +1,5 @@
+//Day 1: Variables and Data Types
+
 //Activity 1:
 
 //task 1:
