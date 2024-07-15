@@ -59,7 +59,7 @@ console.log(d<e&&d!=e);
 console.log(d<e||d!=e);
 
 //task 13
-console.log(!d<e);
+console.log(!(d<e));
 
 
 //Activity 5
